@@ -1,0 +1,103 @@
+/* Your styles here */
+main {
+  text-align: center;
+  background-color: white;
+  padding: 1em;
+  font-size: 1em;
+  margin: 1em;
+}
+/* header */
+header div {
+  background-color: #222f3f;
+}
+header div p {
+  display: inline;
+  padding: 1em;
+}
+#div2header {
+  background-color: #364759;
+  padding: 1em;
+}
+
+/* MAIN */
+main div {
+  background-color: #e9edee;
+}
+#div1main {
+  background: #f56600;
+  padding: 1em;
+  margin-bottom: 2em;
+}
+#div2main {
+  background-image: url(../images/bg-image.png);
+  background-size: auto;
+  height: 10em;
+}
+main h2 {
+  font-size: 2em;
+  font-weight: bold;
+  padding: 1em;
+}
+#p1main {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+/* SECTION */
+section {
+  background-color: white;
+  margin: 2em;
+}
+section p {
+  color: black;
+
+  text-align: left;
+}
+.imgsection {
+  display: inline-block;
+  border-radius: 20px;
+  margin: 0.5em;
+}
+#imgsection1 {
+  background-image: url(../images/img_1.jpg);
+  background-size: cover;
+  padding: 10em;
+}
+#imgsection2 {
+  background-image: url(../images/img_2.jpg);
+  background-size: cover;
+  padding: 10em;
+}
+#imgsection3 {
+  background-image: url(../images/img_3.jpg);
+  background-size: cover;
+  padding: 10em;
+}
+#imgsection4 {
+  background-image: url(../images/img_4.jpg);
+  background-size: cover;
+  padding: 10em;
+}
+#imgsottosection {
+  background-image: url(../images/img_9.png);
+  background-size: cover;
+  padding: 10em;
+}
+#imgsottosection2 {
+  background-image: url(../images/img_10.png);
+  background-size: cover;
+  padding: 10em;
+  margin-top: 2em;
+}
+/* FOOTER */
+
+#div1footer {
+  background-color: #364759;
+  text-align: center;
+  height: 1em;
+  padding: 1em;
+}
+#div2footer {
+  background-color: #222f3f;
+  height: 10em;
+  text-align: center;
+}
